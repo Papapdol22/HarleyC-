@@ -1,0 +1,10 @@
+\\NNC-SERVER01\student_files\241346\Desktop\Sample\c_Sharp Sample 3.2\c_Sharp Sample 3.2\bin\Debug\c_Sharp Sample 3.2.exe.config
+\\NNC-SERVER01\student_files\241346\Desktop\Sample\c_Sharp Sample 3.2\c_Sharp Sample 3.2\bin\Debug\c_Sharp Sample 3.2.exe
+\\NNC-SERVER01\student_files\241346\Desktop\Sample\c_Sharp Sample 3.2\c_Sharp Sample 3.2\bin\Debug\c_Sharp Sample 3.2.pdb
+\\NNC-SERVER01\student_files\241346\Desktop\Sample\c_Sharp Sample 3.2\c_Sharp Sample 3.2\obj\Debug\c_Sharp Sample 3.2.csprojAssemblyReference.cache
+\\NNC-SERVER01\student_files\241346\Desktop\Sample\c_Sharp Sample 3.2\c_Sharp Sample 3.2\obj\Debug\c_Sharp_Sample_3._2.Properties.Resources.resources
+\\NNC-SERVER01\student_files\241346\Desktop\Sample\c_Sharp Sample 3.2\c_Sharp Sample 3.2\obj\Debug\c_Sharp Sample 3.2.csproj.GenerateResource.cache
+\\NNC-SERVER01\student_files\241346\Desktop\Sample\c_Sharp Sample 3.2\c_Sharp Sample 3.2\obj\Debug\c_Sharp Sample 3.2.csproj.CoreCompileInputs.cache
+\\NNC-SERVER01\student_files\241346\Desktop\Sample\c_Sharp Sample 3.2\c_Sharp Sample 3.2\obj\Debug\c_Sharp Sample 3.2.exe
+\\NNC-SERVER01\student_files\241346\Desktop\Sample\c_Sharp Sample 3.2\c_Sharp Sample 3.2\obj\Debug\c_Sharp Sample 3.2.pdb
+\\NNC-SERVER01\student_files\241346\Desktop\Sample\c_Sharp Sample 3.2\c_Sharp Sample 3.2\obj\Debug\c_Sharp_Sample_3._2.Form1.resources
